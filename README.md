@@ -6,8 +6,8 @@
 ❗ Issues 또는 Wiki를 활용하여, 내용 요약 및 질의응답 진행
 
 ## 스터디 일정
-- 기간 : 2025.01.26 ~ (논의 중)
-- 온오프라인 모임 일절 없음
+- 기간 : 2025.01.26 ~ 2025.05.31
+- 온오프라인 정기 모임 없음
 - 필요 시 상호 협의 하에 비정기 모임 가질 수 있음
 
 ## 챕터 목록
@@ -30,3 +30,208 @@
 - leejaeseung
 - emiling
 
+## 참여자별 목표 진도 및 진척도
+<table>
+  <tr>
+    <th rowspan="2">기간</th>
+    <td colspan="4" align="center">목표</td>
+    <td colspan="4" align="center">현황</td>
+  </tr>
+  <tr>
+    <th>JasonYoo1995</th>
+    <th>ngwoon</th>
+    <th>leejaeseung</th>
+    <th>emiling</th>
+    <th>JasonYoo1995</th>
+    <th>ngwoon</th>
+    <th>leejaeseung</th>
+    <th>emiling</th>
+  </tr>
+  <tr>
+    <td>2025.02.02 ~ 2025.02.08</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.02.09 ~ 2025.02.15</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.02.16 ~ 2025.02.22</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.02.23 ~ 2025.03.01</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.03.02 ~ 2025.03.08</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.03.09 ~ 2025.03.15</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.03.16 ~ 2025.03.22</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.03.23 ~ 2025.03.29</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.03.30 ~ 2025.04.05</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.04.06 ~ 2025.04.12</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.04.13 ~ 2025.04.19</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.04.20 ~ 2025.04.26</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.04.27 ~ 2025.05.03</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.05.04 ~ 2025.05.10</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.05.11 ~ 2025.05.17</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.05.18 ~ 2025.05.24</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+  <tr>
+    <td>2025.05.25 ~ 2025.05.31</td>
+    <td></td> <!-- JasonYoo1995 목표 -->
+    <td></td> <!-- ngwoon 목표 -->
+    <td></td> <!-- leejaeseung 목표 -->
+    <td></td> <!-- emiling 목표 -->
+    <td></td> <!-- JasonYoo1995 현황 -->
+    <td></td> <!-- ngwoon 현황 -->
+    <td></td> <!-- leejaeseung 현황 -->
+    <td></td> <!-- emiling 현황 -->
+  </tr>
+</table>
